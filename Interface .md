@@ -87,6 +87,7 @@ Master ───────────────► Slave
    - In a circuit board where fast speed is required but fewer devices are connected.
 
 # 3. I²C (Inter-Integrated Circuit)
+![I2C Communication](Screenshot_20261020_205340_YouTube.jpg)
 
 1. It removes the biggest disadvantage of SPI.
 2. It uses only 2 wires:
@@ -103,8 +104,9 @@ Master ───────────────► Slave
 # CAN (Controller Area Network)
 
 1. CAN stands for **Controller Area Network**.
+   ![CAN Protocol - Bosch 1983](Screenshot_20261020_205428_YouTube.jpg)
    
-2. It is generally used in automobiles and robotics.
+3. It is generally used in automobiles and robotics.
    ![Industrial Applications of Serial Communication](Screenshot_20261020_205717_YouTube.jpg)
    
 4. It uses only two wires:
@@ -118,6 +120,7 @@ Master ───────────────► Slave
 ---
 
 # RS-232
+![RS-232 Serial Communication Standard](Screenshot_20261020_205840_YouTube.jpg)
 
 1. **Point-to-Point Communication**
    - Connects two devices directly without a bus or network.
@@ -133,3 +136,4 @@ Master ───────────────► Slave
    - CNC machines
 
 ![RS-232 DB9 Nine-Pin Connector](Screenshot_20261020_210113_YouTube.jpg)
+![RS-232 Serial Communication Standard](Screenshot_20261020_210133_YouTube.jpg)
